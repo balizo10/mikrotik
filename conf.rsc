@@ -1,12 +1,12 @@
 #ONE
- /interface set "ether1" name="WAN1"
+ /interface set "ether1" name="WANZ"
 
  #TWO
  /interface bridge add name="LAN_Bridge" disabled=no
  /interface bridge port add interface=ether4 bridge=LAN_Bridge
 
  #THREE
- /ip dhcp-client add interface=WAN1 use-peer-dns=yes add-default-route=yes disabled=no
+ /ip dhcp-client add interface=WANZ use-peer-dns=yes add-default-route=yes disabled=no
 
 #FOUR
  /ip pool add name=dhcp-pool ranges=10.10.10.10-10.10.10.254
