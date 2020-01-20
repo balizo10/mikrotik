@@ -1,1 +1,2 @@
- /interface set "MINA" name="WANZ"
+#LINE
+/interface set "MINA" name="WANZ"
