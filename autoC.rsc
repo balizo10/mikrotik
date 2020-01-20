@@ -1,1 +1,1 @@
- /interface set "WANZ" name="EGYPT"
+:log info "Just testing here, Guess im working"
