@@ -1,6 +1,6 @@
 
  /interface set "ether1" name="WAN1"
- /interface set "ether2" name="WANZ"
+ /interface set "MINA" name="WANZ"
 
  /interface bridge add name="LAN_Bridge" disabled=no
  /interface bridge port add interface=ether4 bridge=LAN_Bridge
