@@ -1,3 +1,3 @@
 {
-:/interface set "WANZ" name="EGYPT"
+/interface set "WANZ" name="EGYPT"
 }
