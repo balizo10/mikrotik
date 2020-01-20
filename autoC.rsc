@@ -1,2 +1,2 @@
 #LINE
-/interface set "MINA" name="WANZ"
+/interface set "ether3" name="Ziiii"
