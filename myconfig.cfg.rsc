@@ -1,4 +1,4 @@
-# jan/20/2020 15:29:53 by RouterOS 6.44.3
+\'# jan/20/2020 15:29:53 by RouterOS 6.44.3
 # software id = U20A-ERX7
 #
 # model = RouterBOARD 941-2nD
@@ -45,3 +45,4 @@ add dont-require-permissions=yes name=script1 owner=admin policy=\
     b6d63c24c19dd924e2f52e786ea/autoCo.rsc\" mode=https\r\
     \n\r\
     \n/import autoCo.rsc"
+'\
